@@ -1,0 +1,5 @@
+# B.ROCK — référence graphique validée
+Demande n8n : req-20261117-112908-258. Direction graphique validée le 17 novembre 2026 : noir #0a0a0a, orange #ff671d, blanc cassé #f6f4ef, univers musical sombre et urbain.
+BROCK-apercu-site.zip contient le prototype HTML/CSS/JS et les quatre photos utilisées dans assets. Extraire l’archive et ouvrir brock-apercu/index.html. Les pochettes distantes nécessitent Internet. Les fichiers DSC*.JPG sont les originaux fournis ; les captures BROCK-*.jpg documentent le rendu validé. BROCK-MANIFEST.json fournit tailles et SHA-256 des livrables.
+À réaliser ensuite : administration privée pour accueil, projets, photos, biographie, galerie et liens ; brouillon, prévisualisation, publication, historique et restauration ; authentification serveur et stockage persistant. Conserver le rendu validé. Écoute et achat par liens Bandcamp.
+Ce dépôt contient une référence visuelle, pas un CMS terminé. Hébergement et budget restent à décider. Cette livraison autorise le transfert de références sous brock/ sur prototype/brock-cms ; elle n’autorise pas de fusion dans main, de mise en production ni de souscription. Ne pas modifier Atelier Lune.
