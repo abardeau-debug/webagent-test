@@ -1,0 +1,42 @@
+[
+  {
+    "file": "BROCK-apercu-site.zip",
+    "bytes": 4966776,
+    "sha256": "fc938fb68d131d961a2b79ec50a5e2aab8a0c835e803b09ddc050dbfbefceff5"
+  },
+  {
+    "file": "BROCK-page-complete.jpg",
+    "bytes": 321557,
+    "sha256": "a850ca241455da579e952e7fce0e022a6463f8cba8a60463fab79b2d680dd604"
+  },
+  {
+    "file": "BROCK-accueil-mobile.jpg",
+    "bytes": 41068,
+    "sha256": "2f47898438d41a762685d6a07b11685aea162b0eb03e9ce4d9c9a0522ad63909"
+  },
+  {
+    "file": "BROCK-accueil-ordinateur.jpg",
+    "bytes": 106481,
+    "sha256": "818ea5c0aebb7b5f5a1e488e32150c8cfc3edaa7bd41d4b16c01dc56a5f3b1a3"
+  },
+  {
+    "file": "DSC06427.JPG",
+    "bytes": 1128489,
+    "sha256": "005ca3eaf044efaa37bbfdac327566b9e63bdfcb177e1f0bfc129dea7405a4b5"
+  },
+  {
+    "file": "DSC06429.JPG",
+    "bytes": 1220477,
+    "sha256": "79492b3a76522225afaae058e07aedcd0d5cf57bf1b1e433f86e7edccceaaf2b"
+  },
+  {
+    "file": "DSC06468-2.JPG",
+    "bytes": 1302887,
+    "sha256": "c256b6340d958fc5ca1005634e398425d70b2ab08ec7b4751647e92b695c9154"
+  },
+  {
+    "file": "DSC06555-2.JPG",
+    "bytes": 1465514,
+    "sha256": "d1091ab439416c11d073f5acb2ecab42a85fa2580e11152be6b3c0a92e31d859"
+  }
+]
